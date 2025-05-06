@@ -1,4 +1,4 @@
-# Teacher-Student Project Dashboard
+# Teacher-Student Dashboard
 
 This is a web application that provides a dashboard for both teachers and students to manage resources and feedback. Teachers can upload resources & assign work while students can view resources, assignments, and provide feedback.
 
