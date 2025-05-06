@@ -68,3 +68,13 @@ You can explore the UI components interactively via Storybook:
 
 🔗 [View Live Storybook](https://681a2a48327e3b98df6898b2-dcsulefeyl.chromatic.com/)
 
+## Screen GIFs 
+
+**1.Teacher Dashbord**
+
+![TeacherDashboard](https://github.com/user-attachments/assets/0137993a-b52d-4a04-9b70-811491c8f19b)
+
+**2.Student Dashbord**
+
+![StudentDashboard](https://github.com/user-attachments/assets/c2bfd8e6-f966-4967-b090-d5da1109dac7)
+
