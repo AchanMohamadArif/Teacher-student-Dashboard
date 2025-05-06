@@ -1,13 +1,12 @@
 # Teacher-Student Project Dashboard
 
-This is a web application that provides a dashboard for both teachers and students to manage resources, feedback, and attendance. Teachers can upload resources, assign work, and track student attendance, while students can view resources, submit assignments, and provide feedback.
+This is a web application that provides a dashboard for both teachers and students to manage resources and feedback. Teachers can upload resources & assign work while students can view resources, assignments, and provide feedback.
 
 ## Features
 - **Login Page**:Teacher or Student with the mame. 
-- **Teacher Dashboard**: Upload resources, manage students, and track attendance.
-- **Student Dashboard**: View resources, submit assignments, and give feedback.
-- **Attendance Management**: Mark attendance for students.
-- **Assign Work**: Teachers can assign work to students, and students can submit assignments.
+- **Teacher Dashboard**: Upload resources and assignments
+- **Student Dashboard**: View resources, assignments, and give feedback.
+- **Assign Work**: Teachers can assign work to students, and students can view the assignments works.
 
 ## Prerequisites
 - Node.js (version >= 14.x)
