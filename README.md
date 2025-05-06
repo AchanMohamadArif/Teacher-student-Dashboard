@@ -62,4 +62,9 @@ You can preview the components of the application using **Storybook**. Follow th
 
 3. Visit `http://localhost:6006` to view the Storybook UI.
 
+## 📘 Storybook Preview
+
+You can explore the UI components interactively via Storybook:
+
+🔗 [View Live Storybook](https://681a2a48327e3b98df6898b2-dcsulefeyl.chromatic.com/)
 
